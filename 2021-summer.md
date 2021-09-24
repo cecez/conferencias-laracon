@@ -18,4 +18,4 @@ Utilizando Laravel Octane e Swoole para disparar execuções concorrentes.
 - Eloquent method: whereRelation()
 
 ## Lightning Talks
-- Grid Layouts made easy with tailwindcss por Shruti Balasa (laracon.pdf)
+- Grid Layouts made easy with tailwindcss por Shruti Balasa
