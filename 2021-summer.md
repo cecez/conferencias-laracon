@@ -19,3 +19,5 @@ Utilizando Laravel Octane e Swoole para disparar execuções concorrentes.
 
 ## Lightning Talks
 - Grid Layouts made easy with tailwindcss por Shruti Balasa
+- Snapshot testing by Freek Van der Herten
+- Level up your app with composite (primary) keys by Alexander Wulf
